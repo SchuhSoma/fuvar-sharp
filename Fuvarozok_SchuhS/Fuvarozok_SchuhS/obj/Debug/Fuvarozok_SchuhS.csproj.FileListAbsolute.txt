@@ -1,0 +1,7 @@
+C:\Users\schuhs\Documents\Fuvarozok_SchuhS\Fuvarozok_SchuhS\bin\Debug\Fuvarozok_SchuhS.exe.config
+C:\Users\schuhs\Documents\Fuvarozok_SchuhS\Fuvarozok_SchuhS\bin\Debug\Fuvarozok_SchuhS.exe
+C:\Users\schuhs\Documents\Fuvarozok_SchuhS\Fuvarozok_SchuhS\bin\Debug\Fuvarozok_SchuhS.pdb
+C:\Users\schuhs\Documents\Fuvarozok_SchuhS\Fuvarozok_SchuhS\obj\Debug\Fuvarozok_SchuhS.csprojAssemblyReference.cache
+C:\Users\schuhs\Documents\Fuvarozok_SchuhS\Fuvarozok_SchuhS\obj\Debug\Fuvarozok_SchuhS.csproj.CoreCompileInputs.cache
+C:\Users\schuhs\Documents\Fuvarozok_SchuhS\Fuvarozok_SchuhS\obj\Debug\Fuvarozok_SchuhS.exe
+C:\Users\schuhs\Documents\Fuvarozok_SchuhS\Fuvarozok_SchuhS\obj\Debug\Fuvarozok_SchuhS.pdb
